@@ -2,3 +2,5 @@ this is a test text.
 the purpose of this file is to check my some thoughts.
 in detail, I want to find out what will happen to the deviatoric reposity when I fix the conflict.
 Ok, let's do it.
+
+I add one line in "master"
